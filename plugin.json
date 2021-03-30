@@ -1,0 +1,16 @@
+{
+    "label": {
+        "de": "Novalnet -  Zahlungserweiterung / Plugin",
+        "en": "Novalnet -  Payment Extension / Plugin"
+    },
+    "copyright": "(c) by Novalnet",
+    "link": "https://www.novalnet.de",
+    "author": "Novalnet AG",
+    "currentVersion": "11.2.5",
+    "compatibility": {
+        "minimumVersion": "5.0.0",
+        "maximumVersion": null,
+        "blacklist": [
+        ]
+    }
+}
